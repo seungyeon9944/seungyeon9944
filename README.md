@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiii 👋
 
 <!--
 **seungyeon9944/seungyeon9944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
