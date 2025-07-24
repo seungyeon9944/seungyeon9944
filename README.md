@@ -1,5 +1,13 @@
 ## Hiii 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungyeon9944&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seungyeon9944"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **seungyeon9944/seungyeon9944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
