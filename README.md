@@ -4,7 +4,7 @@
 <img
   src="https://render.gitanimals.org/farms/seungyeon9944"
   width="600"
-  height="300"
+  height="400"
 />
 </a>
 
