@@ -61,11 +61,14 @@ SQL Developer 시험을 준비하며 정리한 개념입니다
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 ### 🪁 Velog 🪁
+#### [*oneandonlycseverywhere.log*](https://velog.io/@seungyeon9944/posts)
+
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/seungyeon9944)
-#### [oneandonlycseverywhere.log 에서](https://velog.io/@seungyeon9944/posts)
+
 CS 개념들을 정리하여 매일 1개념씩 업로드합니다 !
 
 <br/>
