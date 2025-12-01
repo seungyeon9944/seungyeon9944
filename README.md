@@ -37,15 +37,22 @@
 #### [CSTS](https://github.com/seungyeon9944/CSTS_Certified-Software-Test-Specialist)
 Certified-Software-Test-Specialist의 약자로
 
-CSTS FL (Foundation Level) 시험을 준비하며 정리한 개념입니다
+CSTS FL (Foundation Level) 시험을 위한 개념정리 + 오답노트입니다
 <br/>
 <br/>
 
 #### [SQLD](https://github.com/seungyeon9944/SQLD_SQL-Developer)
-SQL Developer 시험을 준비하며 정리한 개념입니다
+SQLD 시험을 위한 개념정리 + 오답노트입니다
+<br/>
+<br/>
+
+#### [ADsP](https://github.com/seungyeon9944/ADsP_Advanced-Data-Analytics-Semi-Professional)
+ADsP 시험을 준비할 때 만들어두었던 오답노트입니다
+
 <br/>
 <br/>
 <br/>
+
 🎄
 
 그리고 겨울을 맞이해서 새하얘진
