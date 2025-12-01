@@ -46,9 +46,11 @@ SQL Developer 시험을 준비하며 정리한 개념입니다
 <br/>
 <br/>
 <br/>
-🧑‍🌾
+🎄
 
-그리고 제 github farm도 자랑합니다 (˶ᵔ ᵕ ᵔ˶)✌️
+그리고 겨울을 맞이해서 새하얘진
+
+제 github farm도 자랑합니다 ᴖ ̫ᴖ✌️
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungyeon9944&utm_content=farm">
 <img
