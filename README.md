@@ -35,7 +35,7 @@
 <br/>
 <br/>
 #### [CSTS](https://github.com/seungyeon9944/CSTS_Certified-Software-Test-Specialist)
-Certified-Software-Test-Specialist의 약자로
+Certified Software Test Specialist의 약자로
 
 CSTS FL (Foundation Level) 시험을 위한 개념정리 + 오답노트입니다
 <br/>
