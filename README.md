@@ -29,7 +29,7 @@
 <br/>
 
 
-### 🗂️ Github🗂️
+### 🗂️ Github 🗂️
 #### [TIL (Today I Learned)](https://github.com/seungyeon9944/TIL )
 매일매일 배운 내용들을 정리하여 복습합니다
 <br/>
