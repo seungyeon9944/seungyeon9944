@@ -18,11 +18,13 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### 🧩 Baekjoon 🧩
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sseeeuuuung&theme=warm)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseeeuuuung)
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -59,6 +61,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
+<br/>
 <br/>
 <br/>
 <br/>
