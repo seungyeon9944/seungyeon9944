@@ -59,7 +59,8 @@ ADsP 시험을 준비할 때 만들어두었던 오답노트입니다
 
 제 github farm도 자랑합니다 ᴖ ̫ᴖ✌️
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungyeon9944&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungyeon&utm_content=farm">
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungyeon9944&utm_content=farm"> -->
 <img
   src="https://render.gitanimals.org/farms/seungyeon9944"
   width="600"
