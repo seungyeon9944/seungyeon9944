@@ -1,6 +1,15 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=93C572&height=120&section=header&text=seungyeon&fontSize=40&fontAlignY=40&desc=walkEveryday🚶‍♀️&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=93C572&height=120&section=header&text=seungyeon&fontSize=40&fontAlignY=40&desc=I'm%20a%20slow%20walker,%20but%20I%20never%20walk%20back.🚶‍♀️&descSize=15&descAlignY=75)
+
+안녕하세요 .ᐟ 
+
+
+🚶‍♀️..
+
+🚶..
+
+🚶‍♂️..
 
 <br/>
 <br/>
