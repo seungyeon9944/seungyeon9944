@@ -3,18 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=93C572&height=120&section=header&text=seungyeon&fontSize=40&fontAlignY=40&desc=walkEveryday🚶‍♀️&descAlignY=75)
 
 <br/>
-
-안녕하세요 ! SW QA engineer가 되고자
-
-꾸준히 커밋하고
-
-매일 백준에서 알고리즘을 풀고
-
-매일 벨로그에서 CS 공부하고
-
-있습니다 •••
-
-<br/>
 <br/>
 <br/>
 <br/>
