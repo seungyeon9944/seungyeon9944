@@ -14,8 +14,16 @@
 
 있습니다 •••
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+### 🧩 Baekjoon 🧩
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sseeeuuuung&theme=warm)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseeeuuuung)
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -55,15 +63,6 @@
 <br/>
 <br/>
 <br/>
-
-### 🧩 Baekjoon 🧩
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sseeeuuuung&theme=warm)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseeeuuuung)
-
-<br/>
-<br/>
-<br/>
-
 
 ### 🗂️ Github 🗂️
 #### [TIL (Today I Learned)](https://github.com/seungyeon9944/TIL )
