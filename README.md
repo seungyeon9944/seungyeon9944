@@ -113,7 +113,7 @@ ADsP 시험을 준비할 때 만들어두었던 오답노트입니다
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/seungyeon9944)
 
-CS 개념들을 정리하여 매일 1개념씩 업로드합니다 !
+CS 개념들을 정리하여 1개념씩 업로드합니다 !
 
 <br/>
 <br/>
