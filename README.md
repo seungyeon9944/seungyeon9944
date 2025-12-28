@@ -64,26 +64,16 @@
 <br/>
 <br/>
 
-### 🗂️ Github 🗂️
-#### [TIL (Today I Learned)](https://github.com/seungyeon9944/TIL )
-매일매일 배운 내용들을 정리하여 복습합니다
-<br/>
-<br/>
-#### [CSTS](https://github.com/seungyeon9944/CSTS_Certified-Software-Test-Specialist)
-Certified Software Test Specialist의 약자로
 
-CSTS FL (Foundation Level) 시험을 위한 개념정리 + 오답노트입니다
-<br/>
-<br/>
+### 🪁 Velog 🪁
+#### [*oneandonlycseverywhere.log*](https://velog.io/@seungyeon9944/posts)
 
-#### [SQLD](https://github.com/seungyeon9944/SQLD_SQL-Developer)
-SQLD 시험을 위한 개념정리 + 오답노트입니다
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/seungyeon9944)
+
+CS 개념들을 정리하여 1개념씩 업로드합니다 !
+
 <br/>
 <br/>
-
-#### [ADsP](https://github.com/seungyeon9944/ADsP_Advanced-Data-Analytics-Semi-Professional)
-ADsP 시험을 준비할 때 만들어두었던 오답노트입니다
-
 <br/>
 <br/>
 <br/>
@@ -102,18 +92,6 @@ ADsP 시험을 준비할 때 만들어두었던 오답노트입니다
 />
 </a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-### 🪁 Velog 🪁
-#### [*oneandonlycseverywhere.log*](https://velog.io/@seungyeon9944/posts)
-
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/seungyeon9944)
-
-CS 개념들을 정리하여 1개념씩 업로드합니다 !
 
 <br/>
 <br/>
