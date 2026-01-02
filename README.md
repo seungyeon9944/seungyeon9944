@@ -18,7 +18,6 @@
 <br/>
 
 ### 🧩 Baekjoon 🧩
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sseeeuuuung&theme=warm)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseeeuuuung)
 
 <br/>
