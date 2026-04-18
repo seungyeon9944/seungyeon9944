@@ -16,14 +16,6 @@
 <br/>
 <br/>
 
-### 🧩 *Baekjoon* 🧩
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseeeuuuung)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### 🛠️ *Tech Stack* 🛠️
   #### 💻 Languages
@@ -77,24 +69,12 @@
 <br/>
 <br/>
 <br/>
-
-
-### 🪁 *Velog* 🪁
-#### [*oneandonlycseverywhere.log*](https://velog.io/@seungyeon9944/posts)
-
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/seungyeon9944)
-
-CS 개념들을 정리하여 1개념씩 업로드합니다 !
-
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
-🎄
+🌳
 
-그리고 파릇파릇해진
+파릇파릇해진
 
 제 github farm도 자랑합니다 ᴖ ̫ᴖ✌️
 
