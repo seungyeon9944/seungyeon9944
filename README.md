@@ -74,15 +74,15 @@
 
 🌳
 
-파릇파릇해진
+푸릇푸릇해진
 
 제 github farm도 자랑합니다 ᴖ ̫ᴖ✌️
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungyeon9944&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seungyeon9944"
-  width="600"
-  height="300"
+  width="500"
+  height="250"
 />
 </a>
 
