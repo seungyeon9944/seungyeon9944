@@ -16,12 +16,28 @@
 <br/>
 <br/>
 
+### *History* 
+  ²⁰²⁰ ⁻ ²⁰²⁴ <b> ⚡ 한양대학교 전기공학 졸업 </b> <br/>
+  
+  ²⁰²⁵ ⁻ ²⁰²⁶ <b> 💻 삼성청년SW·AI아카데미(SSAFY) 14기 수료 </b> <br/>
+  
+  ²⁰²⁶ ⁻ <b> 🤖 Clobot 선행기술개발팀</b> <br/>
 
-### 🛠️ *Tech Stack* 🛠️
-  #### 💻 Languages
-  <div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### *Tech Stack*
+#### 🦾 Languages
+<div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 </div>
 <br>
 
@@ -62,7 +78,9 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
-
+<br>
+<br>
+💻 and <b>Frontend & Backend</b> <i> - Javascript, React, Vue.js, HTML/CSS, Spring Boot, Django</i><br>
 
 <br/>
 <br/>
