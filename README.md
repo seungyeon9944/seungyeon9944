@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=93C572&height=120&section=header&text=🚶‍♀️&fontSize=40&fontAlignY=40&desc=I'm%20a%20slow%20walker,%20but%20I%20never%20walk%20back.&descSize=15&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=93C572&height=100&section=header&text=🚶‍♀️&fontSize=40&fontAlignY=40&desc=I'm%20a%20slow%20walker,%20but%20I%20never%20walk%20back.&descSize=15&descAlignY=75)
 
 
 
@@ -14,9 +14,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
-### *History* 
+### *Career* 
   ²⁰²⁰ ⁻ ²⁰²⁴ <b> ⚡ 한양대학교 전기공학 졸업 </b> <br/>
   
   ²⁰²⁵ ⁻ ²⁰²⁶ <b> 💻 삼성청년SW·AI아카데미(SSAFY) 14기 수료 </b> <br/>
@@ -24,7 +23,6 @@
   ²⁰²⁶ ⁻ <b> 🤖 Clobot 선행기술개발팀</b> <br/>
 
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -88,11 +86,10 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 🌳
 
-제 github farm도 자랑합니다 ᴖ ̫ᴖ✌️
+my github farm ᴖ ̫ᴖ✌️
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungyeon9944&utm_content=farm">
 <img
